@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListBuying")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc6c819adf98c779d61c26070054c476265a41b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eec886e4c072a58f2e1e89fb189ddf9dd58fb9b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListBuying")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListBuying")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
