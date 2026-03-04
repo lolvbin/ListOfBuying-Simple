@@ -1,0 +1,15 @@
+C:\Users\Educare TI\ActingStuff\ListBuying\bin\Debug\net9.0\ListBuying.exe
+C:\Users\Educare TI\ActingStuff\ListBuying\bin\Debug\net9.0\ListBuying.deps.json
+C:\Users\Educare TI\ActingStuff\ListBuying\bin\Debug\net9.0\ListBuying.runtimeconfig.json
+C:\Users\Educare TI\ActingStuff\ListBuying\bin\Debug\net9.0\ListBuying.dll
+C:\Users\Educare TI\ActingStuff\ListBuying\bin\Debug\net9.0\ListBuying.pdb
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.AssemblyInfoInputs.cache
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.AssemblyInfo.cs
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.csproj.CoreCompileInputs.cache
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.sourcelink.json
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.dll
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\refint\ListBuying.dll
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.pdb
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ListBuying.genruntimeconfig.cache
+C:\Users\Educare TI\ActingStuff\ListBuying\obj\Debug\net9.0\ref\ListBuying.dll
